@@ -469,6 +469,9 @@ section {
     background: #6ca72c;
     color: #2c2c2c;
 }
+.linha-escura{
+    background: #2c2c2c;
+}
 .formatted_membership_price {
     display: flex;
     align-items: center;
@@ -491,6 +494,28 @@ section {
   margin-bottom: 30px;
   color:#6ca72c;
   z-index: 2;
+}
+
+.title-verde {
+    color:#6ca72c;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+}
+.title-escuro {
+    color:#212529;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+}
+.texto-escuro {
+    color:#212529;
+}
+.card-verde {
+    background:#6ca72c;
+}
+.plano-smart{
+    background:#6ca72c;
 }
 
 .section-title h2::after {

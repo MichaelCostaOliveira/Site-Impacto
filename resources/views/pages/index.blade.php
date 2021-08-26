@@ -106,19 +106,15 @@
               <div class="row justify-center">
                   <div class="col-md-9 mb-6 pt-3 text-center">
                       <div class="row justify-center">
-                          <div class="col-md-5 mt-6 my-6 md:mb-0">
+                          <div class="col-md-5 mt-6 my-6" data-aos="fade-up" data-aos-delay="100">
                               <div class="plano-inicio">
                                   <div>
-                                      <div class="badge">
-                                          O mais <strong> dfvdfvdfvdf</strong>
-                                      </div>
-
-                                      <div class="plano__header bg-blacker text-center py-4">
-                                          <p class="fw-900 uppercase text-white fz-24">
+                                      <div class="text-center py-4">
+                                          <p class="uppercase text-white  font-bold">
                                               PLANO
                                           </p>
-                                          <h2 class="text-primary uppercase">
-                                              black
+                                          <h2 class="title-verde uppercase">
+                                              IMPACTO Black
                                           </h2>
                                       </div>
 
@@ -128,86 +124,77 @@
                                                 A PARTIR DE
                                               </span>
                                               <br>
-                                              <div class="text-4xl font-bold text-black formatted_membership_price">
-                                                  R$ 109,90
+                                              <div class="text-4xl font-bold text-white formatted_membership_price">
+                                                  R$ 99,90
                                               </div>
                                               <span class="font-bold uppercase text-black">
                                               </span>
                                           </div>
                                       </div>
 
-                                      <div class="plano__body px-5">
-                                          <p class="fz-18 mb-6">
-                                              Treine em qualquer unidade Smart Fit na América Latina.
-                                          </p>
+                                      <div class=" px-5">
                                           <hr class="mb-6">
-                                          <div class="text-gray fz-14 fw-900 uppercase mb-3">
+                                          <div class="fw-900 uppercase mb-3 font-bold ">
                                               DIFERENCIAIS
                                           </div>
-
-                                          <p class="font-bold mb-6">
-                                              Acesso ilimitado a todas áreas da academia
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Aulas de Ginástica
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Área de musculação e aeróbicos
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Smart Fit Go
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Acesso ilimitado às demais unidades da rede**
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Leve amigos para treinar com você
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              Cadeira de massagem
-                                          </p>
-                                          <p class="font-bold mb-6">
-                                              1 mês para presentear alguém
-                                          </p>
+                                          <ul>
+                                              <li>
+                                                  <p class="font-bold mb-6 text-white">
+                                                      Acesso ilimitado a todas áreas da academia
+                                                  </p>
+                                              </li>
+                                              <li>
+                                                  <p class="font-bold mb-6 text-white">
+                                                      Aulas de Ginástica
+                                                  </p>
+                                              </li>
+                                              <li>
+                                                  <p class="font-bold mb-6 text-white">
+                                                      Área de musculação e aeróbicos
+                                                  </p>
+                                              </li>
+                                              <li>
+                                                  <p class="font-bold mb-6 text-white">
+                                                      Smart Fit Go
+                                                  </p>
+                                              </li>
+                                              <li>
+                                                  <p class="font-bold mb-6 text-white">
+                                                      Acesso ilimitado às demais unidades da rede**
+                                                  </p>
+                                              </li>
+                                          </ul>
                                       </div>
                                   </div>
-
-                                  <div>
+                                    <div>
                                       <div class="plano__cta">
-                                          <a href="/unidades" class="btn d-ib js-click-plano-cta"
-                                             onclick="covid_cta_black_datalayer_push();" data-product-name="black">
-                                              Aproveite
-                                          </a>
+                                          <p>Aproveite</p>
                                       </div>
-
-                                  </div>
+                                    </div>
                               </div>
                           </div>
-                          <div class="col-md-5 mt-6 my-6 md:mb-0">
-                              <div class="plano bg-white plano-smart">
+                          <div class="col-md-5 mt-6 my-6 md:mb-0" data-aos="fade-up" data-aos-delay="100">
+                              <div class="plano-smart">
                                   <div>
-
-                                      <div class="plano__header bg-primary text-center py-4">
-                                          <p class="fw-900 uppercase text-white fz-24">
+                                      <div class="text-center py-4 card-verde">
+                                          <p class="uppercase text-white  font-bold">
                                               PLANO
                                           </p>
-                                          <h2 class="text-black uppercase">
-                                              smart
+                                          <h2 class="text-black uppercase title-escuro">
+                                              BASIC
                                           </h2>
                                       </div>
-
-                                      <div class="plano__price bg-blacker text-white">
-                                          <div class="text-center text-primary">
-                          <span class="text-white font-bold uppercase">
-                            A PARTIR DE
-                          </span>
+                                      <div class="linha-escura">
+                                          <div class="text-center text-black">
+                                              <span class="text-white font-bold uppercase">
+                                                A PARTIR DE
+                                              </span>
                                               <br>
-                                              <div class="text-4xl font-bold text-primary formatted_membership_price">
-                                                  R$ 69,90
+                                              <div class="text-4xl font-bold text-black formatted_membership_price text-white">
+                                                  R$ 109,90
                                               </div>
-                                              <span class="font-bold uppercase text-primary">
-
-                          </span>
+                                              <span class="font-bold uppercase text-black">
+                                              </span>
                                           </div>
                                       </div>
 
@@ -240,11 +227,8 @@
 
                                   <div>
                                       <div class="plano__cta">
-                                          <a href="/unidades" class="btn d-ib js-click-plano-cta" onclick="covid_cta_smart_datalayer_push();" data-product-name="smart">
-                                              Aproveite
-                                          </a>
+                                          <p>Aproveite</p>
                                       </div>
-
                                   </div>
                               </div>
                           </div>
