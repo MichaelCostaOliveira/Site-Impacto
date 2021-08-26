@@ -37,7 +37,7 @@ Load the required stylesheet and JS:
 
 ```js
 import 'owl.carousel/dist/assets/owl.carousel.css';
-import 'public/assets/vendor/owl.carousel/owl.carousel';
+import 'public/vendorrousel/owl.carousel';
 ```
 
 #### Static HTML
