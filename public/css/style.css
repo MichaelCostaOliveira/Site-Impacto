@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #bfbfbf;
     background-color: #212529;
 }
 
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #969696;
+  color: #807e7e;
   text-decoration: none;
 }
 
@@ -450,10 +450,16 @@ section {
 .section-bg {
   background-color: #212529;
 }
-
+.section-plan {
+    background-color: #e8e9e9;
+}
 .section-title {
   text-align: center;
   padding-bottom: 30px;
+}
+
+.texto-escuro {
+    color: #2c2c2c;
 }
 
 .section-title h2 {
@@ -606,7 +612,7 @@ section {
 
 .about .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #9a9898;
 }
 
 @media (max-width: 1200px) {

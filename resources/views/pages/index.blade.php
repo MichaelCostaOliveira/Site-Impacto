@@ -2,7 +2,8 @@
 @section ('conteudo')
   <main id="main">
     <!-- ======= About Section ======= -->
-    <section id="home" class="about">
+
+    <section class="about">
       <div class="container">
 
         <div class="row no-gutters" style="margin-top: -70px;">
@@ -93,8 +94,169 @@
         </div>
       </div>
     </section>
-    <!-- End Team Section -->
+        <!-- End Team Section -->
+    <section id="planos" class="planos section-plan">
+          <div class="container">
+              <div class="section-title" data-aos="fade-in" data-aos-delay="100">
+                  <h2>Escolha seu plano</h2>
+                  <p class="texto-escuro">
+                      Treine o quanto quiser com nossos planos. Todos oferecem áreas de musculação, aeróbico, aulas especiais e de ginástica
+                  </p>
+              </div>
+              <div class="row justify-center">
+                  <div class="col-md-9 mb-6 pt-3 text-center">
+                      <div class="row justify-center">
 
+
+                          <div class="col-md-5 mt-6 my-6 md:mb-0">
+                              <div class="plano bg-white ">
+                                  <div>
+                                      <div class="badge">
+                                          O mais <strong> dfvdfvdfvdf</strong>
+                                      </div>
+
+                                      <div class="plano__header bg-blacker text-center py-4">
+                                          <p class="fw-900 uppercase text-white fz-24">
+                                              PLANO
+                                          </p>
+                                          <h2 class="text-primary uppercase">
+                                              black
+                                          </h2>
+                                      </div>
+
+                                      <div class="plano__price bg-primary text-white">
+                                          <div class="text-center text-black">
+                          <span class="text-white font-bold uppercase">
+                            A PARTIR DE
+                          </span>
+                                              <br>
+                                              <div class="text-4xl font-bold text-black formatted_membership_price">
+                                                  R$ 109,90
+                                              </div>
+                                              <span class="font-bold uppercase text-black">
+
+                          </span>
+                                          </div>
+                                      </div>
+
+                                      <div class="plano__body px-5">
+                                          <p class="fz-18 mb-6">
+                                              Treine em qualquer unidade Smart Fit na América Latina.
+                                          </p>
+                                          <hr class="mb-6">
+                                          <div class="text-gray fz-14 fw-900 uppercase mb-3">
+                                              DIFERENCIAIS
+                                          </div>
+
+                                          <p class="font-bold mb-6">
+                                              Acesso ilimitado a todas áreas da academia
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Aulas de Ginástica
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Área de musculação e aeróbicos
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Smart Fit Go
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Acesso ilimitado às demais unidades da rede**
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Leve amigos para treinar com você
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Cadeira de massagem
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              1 mês para presentear alguém
+                                          </p>
+                                      </div>
+                                  </div>
+
+                                  <div>
+                                      <div class="plano__cta">
+                                          <a href="/unidades" class="btn d-ib js-click-plano-cta" onclick="covid_cta_black_datalayer_push();" data-product-name="black">
+                                              Aproveite
+                                          </a>
+                                      </div>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="col-md-5 mt-6 my-6 md:mb-0">
+                              <div class="plano bg-white plano-smart">
+                                  <div>
+
+                                      <div class="plano__header bg-primary text-center py-4">
+                                          <p class="fw-900 uppercase text-white fz-24">
+                                              PLANO
+                                          </p>
+                                          <h2 class="text-black uppercase">
+                                              smart
+                                          </h2>
+                                      </div>
+
+                                      <div class="plano__price bg-blacker text-white">
+                                          <div class="text-center text-primary">
+                          <span class="text-white font-bold uppercase">
+                            A PARTIR DE
+                          </span>
+                                              <br>
+                                              <div class="text-4xl font-bold text-primary formatted_membership_price">
+                                                  R$ 69,90
+                                              </div>
+                                              <span class="font-bold uppercase text-primary">
+
+                          </span>
+                                          </div>
+                                      </div>
+
+                                      <div class="plano__body px-5">
+                                          <p class="fz-18 mb-6">
+                                              Treine o quanto quiser na sua unidade, sem taxa de cancelamento.
+                                          </p>
+                                          <hr class="mb-6">
+                                          <div class="text-gray fz-14 fw-900 uppercase mb-3">
+                                              DIFERENCIAIS
+                                          </div>
+
+                                          <p class="font-bold mb-6">
+                                              Acesso ilimitado a todas áreas da academia
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Aulas de Ginástica
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Área de musculação e aeróbicos
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Smart Fit Go
+                                          </p>
+                                          <p class="font-bold mb-6">
+                                              Sem taxa de cancelamento
+                                          </p>
+                                      </div>
+                                  </div>
+
+                                  <div>
+                                      <div class="plano__cta">
+                                          <a href="/unidades" class="btn d-ib js-click-plano-cta" onclick="covid_cta_smart_datalayer_push();" data-product-name="smart">
+                                              Aproveite
+                                          </a>
+                                      </div>
+
+                                  </div>
+                              </div>
+                          </div>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </section>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-bg">
       <div class="container">
