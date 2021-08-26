@@ -462,6 +462,28 @@ section {
     color: #2c2c2c;
 }
 
+.plano-inicio{
+    background: #212529;
+}
+.linha-verde{
+    background: #6ca72c;
+    color: #2c2c2c;
+}
+.formatted_membership_price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.text-4xl {
+    font-size: 2.25rem;
+}
+.font-bold {
+    font-weight: 700;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;

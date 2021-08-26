@@ -106,10 +106,8 @@
               <div class="row justify-center">
                   <div class="col-md-9 mb-6 pt-3 text-center">
                       <div class="row justify-center">
-
-
                           <div class="col-md-5 mt-6 my-6 md:mb-0">
-                              <div class="plano bg-white ">
+                              <div class="plano-inicio">
                                   <div>
                                       <div class="badge">
                                           O mais <strong> dfvdfvdfvdf</strong>
@@ -124,18 +122,17 @@
                                           </h2>
                                       </div>
 
-                                      <div class="plano__price bg-primary text-white">
+                                      <div class="linha-verde">
                                           <div class="text-center text-black">
-                          <span class="text-white font-bold uppercase">
-                            A PARTIR DE
-                          </span>
+                                              <span class="text-white font-bold uppercase">
+                                                A PARTIR DE
+                                              </span>
                                               <br>
                                               <div class="text-4xl font-bold text-black formatted_membership_price">
                                                   R$ 109,90
                                               </div>
                                               <span class="font-bold uppercase text-black">
-
-                          </span>
+                                              </span>
                                           </div>
                                       </div>
 
@@ -177,7 +174,8 @@
 
                                   <div>
                                       <div class="plano__cta">
-                                          <a href="/unidades" class="btn d-ib js-click-plano-cta" onclick="covid_cta_black_datalayer_push();" data-product-name="black">
+                                          <a href="/unidades" class="btn d-ib js-click-plano-cta"
+                                             onclick="covid_cta_black_datalayer_push();" data-product-name="black">
                                               Aproveite
                                           </a>
                                       </div>
@@ -185,7 +183,6 @@
                                   </div>
                               </div>
                           </div>
-
                           <div class="col-md-5 mt-6 my-6 md:mb-0">
                               <div class="plano bg-white plano-smart">
                                   <div>
@@ -251,7 +248,6 @@
                                   </div>
                               </div>
                           </div>
-
                       </div>
                   </div>
               </div>
